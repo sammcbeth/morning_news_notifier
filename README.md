@@ -1,27 +1,23 @@
 # Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+Simple desktop notifier for top stories taken from hacker news.
+Planning to eventually integrate this and other information into a 
+personalized "morning debriefing".
 
-## Installation
+## Requirements
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install win10toast.
 
 ```bash
-pip install foobar
+pip install win10toast
 ```
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+``` python[3]
+.\desktop_notifier.py 
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+None at this time.
 

@@ -12,6 +12,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install win10to
 pip install win10toast
 ```
 
+Also should be initiated within a python virtual environment.
+
 ## Usage
 
 ```

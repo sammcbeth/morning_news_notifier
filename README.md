@@ -14,8 +14,8 @@ pip install win10toast
 
 ## Usage
 
-``` python[3]
-.\desktop_notifier.py 
+```
+python[3] .\desktop_notifier.py 
 ```
 
 ## Contributing
